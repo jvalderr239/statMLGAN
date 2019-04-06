@@ -1,0 +1,2 @@
+# statMLGAN
+MNIST GAN
